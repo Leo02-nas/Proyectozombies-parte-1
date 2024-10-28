@@ -6,7 +6,7 @@
 #include <iomanip>
 using namespace std;
 
-// Proyecto de Algoritmos y Estructuras de Datos, Universidad Católica Andrés Bello, Hecho por Germán Moreno ci:31.449083, Jose Barazarte ci 30.464.544 y lenar quinones ci:30.591.879
+// Proyecto de Algoritmos y Estructuras de Datos, Universidad Católica Andrés Bello, Hecho por Germán Moreno ci:31.449083, Jose Barazarte ci 30.464.544 y leonar Quiñónez ci:30.591.879
 
 // Declarando los TDA
 
